@@ -3,7 +3,7 @@ url: http://charitywater.me
 baseurl: ''
 
 # compass configuration
-charitywater.me:
+compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
