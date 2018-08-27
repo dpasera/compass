@@ -1,15 +1,15 @@
 # general configuration
-url: http://excentris.net
+url: http://charitywater.me
 baseurl: ''
 
 # compass configuration
-compass:
+charitywater.me:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "charitywater.me"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Langsung <a href='https://savecomodoindonesia.payrexx.com'>DONATE</a> aja kalo mau dapet duit"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
