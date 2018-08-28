@@ -14,7 +14,8 @@ Method Cashout PP atau CC Dengan Embel-Embel Donasi, Bisa Langsung Cek Di [chari
 
 ## ABOUT 
 
-Merchant yang Digunakan Untuk Payment Gatewaynya menggunakan [PAYREXX](https://www.payrexx.com/en/home/) Dengan Paypal Eropa sebagai Penampung.
+Merchant yang Digunakan Untuk Payment Gateway Paypal menggunakan [PAYREXX](https://www.payrexx.com/en/home/) Dengan Paypal Eropa sebagai Penampung.
+Sedangkan untuk Credit Card menggunakan [STRIPE](https://stripe.com/)
 Dengan tambahan Masking Mode dari [charitywater.org](https://www.charitywater.org/) yaitu salah satu website fundraising terbesar di US dan UK. untuk meminimalisasir kemungkinan Dispute/Chargeback.
 Contoh Bank Statement atau PP Statementnya nantinya akan jadi seperti ini contohnya: <br><br>
 <img src="images/succes.png">
