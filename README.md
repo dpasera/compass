@@ -16,7 +16,7 @@ Method Cashout PP atau CC Dengan Embel-Embel Donasi, Bisa Langsung Cek Di [chari
 
 Merchant yang Digunakan Untuk Payment Gatewaynya menggunakan [PAYREXX](https://www.payrexx.com/en/home/) Dengan Paypal Eropa sebagai Penampung.
 Dengan tambahan Masking Mode dari [charitywater.org](https://www.charitywater.org/) yaitu salah satu website fundraising terbesar di US dan UK. untuk meminimalisasir kemungkinan Dispute/Chargeback.
-Contoh Bank Statement atau PP Statementnya nantinya akan jadi seperti ini contohnya:
+Contoh Bank Statement atau PP Statementnya nantinya akan jadi seperti ini contohnya: <br><br>
 <img src="images/succes.png">
 
 Lebih lanjut bisa Kontak [FACEBOOK](https://www.facebook.com/grimmjow.id)
